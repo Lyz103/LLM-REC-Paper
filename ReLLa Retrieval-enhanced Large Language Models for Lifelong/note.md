@@ -4,7 +4,7 @@
 
 ## Motivation
 LLM在推荐领域中无法从长用户行为序列的文本上提取有用信息，即使文本长度远远没有达到LLM的文本长度限制。
-<img src="./asset/figure1.png" width="500px">
+<img src="./asset/figure1.png" width="400px">
 
 
 ## Introduction
@@ -24,6 +24,11 @@ K = 4 in figure 2 (4 items)
 
 
 ## Method
+SUBR  
+<img src="./asset/figure3.png" width="400px">  
+ReiT  
+<img src="./asset/figure5.png" width="400px">  
+
 
 
  ## appendix
