@@ -4,7 +4,7 @@
 
 ## Motivation
 LLM在推荐领域中无法从长用户行为序列的文本上提取有用信息，即使文本长度远远没有达到LLM的文本长度限制。
-![[figure1]](./asset/figure1.png)
+<img src="./asset/figure1.png" width="500px">
 
 
 ## Introduction
@@ -19,8 +19,9 @@ LLM在推荐领域中无法从长用户行为序列的文本上提取有用信�
 ## Preliminaries
 
 $(x_i, y_i)$ --> ("item", "YES/NO")  
-![[figure2]](./asset/figure2.png)  
+<img src="./asset/figure2.png" width="500px">  
 K = 4 in figure 2 (4 items)  
+
 
 ## Method
 
