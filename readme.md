@@ -1,5 +1,5 @@
 # 🤗 Papers of LLM & Rec
- denotes has read while ❎ denotes hasn't read  
+ ✅denotes has read while ❎ denotes hasn't read  
 
 1. ❎Enhancing Recommender Systems with Large Language Model Reasoning 
 [[paper link]](https://arxiv.org/abs/2308.10835) 
