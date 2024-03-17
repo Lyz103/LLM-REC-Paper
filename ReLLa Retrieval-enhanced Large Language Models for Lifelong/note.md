@@ -24,10 +24,12 @@ K = 4 in figure 2 (4 items)
 
 
 ## Method
+伟大的余弦相似度❗❗❗
 SUBR  
 <img src="./asset/figure3.png" width="400px">  
 ReiT  
 <img src="./asset/figure5.png" width="400px">  
+
 
 
 
