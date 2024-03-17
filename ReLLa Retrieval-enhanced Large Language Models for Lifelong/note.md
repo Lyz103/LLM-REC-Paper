@@ -32,8 +32,13 @@ ReiT
 
 
 ## Experiments
+没什么好说的，效果一片大好！！！
 
 
+## Summary
+1. zero-shot 用与物品相关的top-k 而不是最近的top-k 更合理一点
+2. 为了增加鲁棒性，把两个top-k都扔进去训练，合理
+3. Case study做的挺好，注意力分数，可以借鉴一下，以后做尽量把模型做复杂点，以便进行消融实验hhh
 
  ## appendix
  [[CTR任务]](https://zhuanlan.zhihu.com/p/372110635)
