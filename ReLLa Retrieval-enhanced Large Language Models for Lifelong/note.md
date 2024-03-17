@@ -19,7 +19,7 @@ LLM在推荐领域中无法从长用户行为序列的文本上提取有用信�
 ## Preliminaries
 
 $(x_i, y_i)$ --> ("item", "YES/NO")  
-![[Illustration of textual input-output pair]](./asset/pair.png)
+![[Illustration of textual input-output pair]](./asset/pair.png)  
 K = 4 in figure 2 (4 items)  
 
 ## Method
