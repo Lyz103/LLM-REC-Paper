@@ -27,7 +27,7 @@ K = 4 in figure 2 (4 items)
 伟大的余弦相似度❗❗❗
 SUBR  
 <img src="./asset/figure3.png" width="400px">  
-ReiT: senmantic top-k and nearest top-K mixed
+ReiT: senmantic top-k and nearest top-K mixed  
 <img src="./asset/figure5.png" width="400px">  
 
 
