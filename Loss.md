@@ -38,3 +38,7 @@ plt.ylabel('Predicted Values')
 plt.title('Scatter plot of True vs Predicted Values')
 plt.show()
 ```
+
+
+2、平均绝对误差
+平均绝对误差（Mean Absolute Error，MAE）是一种用于衡量预测模型性能的损失函数，通常用于回归问题。它衡量了模型的预测值与实际观测值之间的平均绝对差异。MAE 的值越小，表示模型的预测越准确。
