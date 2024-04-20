@@ -18,3 +18,5 @@
 1. ✅LinRec: Linear Attention Mechanism for Long-term Sequential
  Recommender Systems [[paper link]](https://dl.acm.org/doi/10.1145/3539618.3591717) [[code link]](https://github.com/Applied-Machine-Learning-Lab/LinRec)[[note link]](./✅Linrec/Linrec_note.pdf)
 2. ✅On the Effectiveness of Unlearning in Session-Based Recommendation [[paper link]](./✅On%20the%20Effectiveness%20of%20Unlearning%20in%20Session-Based%20Recommendation/2312.14447.pdf)[[code link]](https://github.com/shirryliu/SRU-code)[[note link]](./✅On%20the%20Effectiveness%20of%20Unlearning%20in%20Session-Based%20Recommendation/Onthe%20Effectiveness%20of%20Unlearning%20in.pdf)
+3. Leave No OneBehind: Online Self-Supervised Self-Distillation for Sequential Recommendation [[paper link]](https://arxiv.org/pdf/2404.07219.pdf)
+4. Intent Contrastive Learning for Sequential Recommendation [[paper link]](https://arxiv.org/pdf/2202.02519.pdf)

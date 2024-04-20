@@ -1,18 +1,24 @@
-import numpy as np
-import matplotlib.pyplot as plt
+import random
+t = 1000000
 
-# 真实值和预测值
-y_true = np.array([1, 2, 3, 4, 5])
-y_pred = np.array([1.2, 2.5, 3.7, 4.1, 5.3])
+ans1 = 0
+ans2 = 0
+for i in range(t):
+    flag = random.choice([0, 1])
+    if flag == 0:
+        b = [i for i in range(1, 51)]
+        x = random.choice(b)
+        b.remove(x)
+        if 1<= x <= 10:
+            ans2 += 1
+    else:
+        c = [i for i in range(51, 81)]
+        x = random.choice(c)
+        c.remove(x)
+        y = random.choice(c)
+        if 51<= x <= 68:
+            ans2 += 1
 
-# 计算均方误差
-mse = np.mean((y_true - y_pred) ** 2)
-print("MSE:", mse)
 
-# 绘制真实值和预测值的散点图
-plt.scatter(y_true, y_pred)
-plt.plot([min(y_true), max(y_true)], [min(y_true), max(y_true)], 'k--', lw=2)  # 绘制直线y=x
-plt.xlabel('True Values')
-plt.ylabel('Predicted Values')
-plt.title('Scatter plot of True vs Predicted Values')
-plt.show()
+print(ans2/t)
+
