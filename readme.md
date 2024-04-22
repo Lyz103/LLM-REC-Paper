@@ -23,4 +23,4 @@
 5. ✅Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model [[paper lilnk]](https://arxiv.org/pdf/2404.05342.pdf) 解决用户序列中物品的随即性问题
 6. ✅Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention [[paper]](http://arxiv.org/abs/2404.03637) 
 7. ✅FineRec: Exploring Fine-grained Sequential Recommendation [[paper]](https://arxiv.org/pdf/2404.12975.pdf)
-8. Disentangling ID and Modality Effects for Session-based Recommendation[[paper]](https://arxiv.org/pdf/2404.12969.pdf)
+8. ✅Disentangling ID and Modality Effects for Session-based Recommendation[[paper]](https://arxiv.org/pdf/2404.12969.pdf)
