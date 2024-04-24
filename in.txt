@@ -1,0 +1,5 @@
+int a, b;
+double c=1.2; // This is a comment
+scanf(a);
+scanf(b);
+printf(c);
