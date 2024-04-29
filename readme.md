@@ -20,8 +20,10 @@
 2. ✅On the Effectiveness of Unlearning in Session-Based Recommendation [[paper link]](./✅On%20the%20Effectiveness%20of%20Unlearning%20in%20Session-Based%20Recommendation/2312.14447.pdf)[[code link]](https://github.com/shirryliu/SRU-code)[[note link]](./✅On%20the%20Effectiveness%20of%20Unlearning%20in%20Session-Based%20Recommendation/Onthe%20Effectiveness%20of%20Unlearning%20in.pdf)
 3. ✅Leave No OneBehind: Online Self-Supervised Self-Distillation for Sequential Recommendation [[paper link]](https://arxiv.org/pdf/2404.07219.pdf) 自蒸馏
 4. ✅Intent Contrastive Learning for Sequential Recommendation [[paper link]](https://arxiv.org/pdf/2202.02519.pdf) 对比学习
-5. ✅Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model [[paper lilnk]](https://arxiv.org/pdf/2404.05342.pdf) 解决用户序列中物品的随即性问题
+5. ✅Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model [[paper lilnk]](https://arxiv.org/pdf/2404.05342.pdf) 解决用户序列中物品的随机性问题
 6. ❎Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention [[paper]](http://arxiv.org/abs/2404.03637) 
 7. ❎FineRec: Exploring Fine-grained Sequential Recommendation [[paper]](https://arxiv.org/pdf/2404.12975.pdf)
 8. ✅Disentangling ID and Modality Effects for Session-based Recommendation [[paper]](https://arxiv.org/pdf/2404.12969.pdf)
 9. ❎Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations[[paper]](https://arxiv.org/pdf/2402.17152.pdf)
+10. ❎Large Language Models for Intent-Driven Session Recommendations [[paper]](https://arxiv.org/pdf/2312.07552)
+11. ❎Large Language Models are Learnable Planners for Long-Term Recommendation [[paper]](https://arxiv.org/pdf/2403.00843)
