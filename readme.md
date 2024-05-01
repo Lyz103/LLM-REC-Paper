@@ -27,3 +27,20 @@
 9. ❎Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations[[paper]](https://arxiv.org/pdf/2402.17152.pdf)
 10. ❎Large Language Models for Intent-Driven Session Recommendations [[paper]](https://arxiv.org/pdf/2312.07552)
 11. ❎Large Language Models are Learnable Planners for Long-Term Recommendation [[paper]](https://arxiv.org/pdf/2403.00843)
+12. ❎A Generic Behavior-Aware Data Augmentation Framework for Sequential Recommendation 
+13. ❎LoRec: Combating Poisons with Large Language Model for Robust Sequential Recommendation
+14. ❎Multi-Domain Sequential Recommendation via Domain Space Learning
+15. ❎Fair Sequential Recommendation without User Demographics
+16. ❎Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation
+# SIGIR 24 sequential recommendation
+17. ❎Self-Augmented Graph Neural Networks for Sequential Recommendation
+18. ❎IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT
+19. ❎FineRec: Exploring Fine-grained Sequential Recommendation   
+20. ❎Sequential Recommendation with Latent Relations based on Large Language Model
+21. ❎Sequential Recommendation with Collaborative Explanation via Mutual Information Maximization
+22. ❎Enhancing Sequential Recommenders with Augmented Knowledge from Aligned Large Language Models
+23. ❎Modeling User Fatigue for Sequential Recommendation
+24. ❎Scaling Sequential Recommendation Models with Transformers
+25. ❎Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention
+26. ❎CMCLRec: Cross-modal Contrastive Learning for User Cold-start Sequential Recommendation
+27. ❎Explainable Uncertainty Attribution for Sequential Recommendation
