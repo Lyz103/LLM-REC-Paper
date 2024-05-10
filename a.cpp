@@ -5,7 +5,7 @@
 */
 #include <bits/stdc++.h>
 
-#define LOCAL 1
+#define LOCAL 0
 
 std::map<std::string, std::string> mp{
     {"int", "INTSYM"},       {"double", "DOUBLESYM"}, {"scanf", "SCANFSYM"},

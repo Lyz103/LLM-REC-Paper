@@ -34,13 +34,15 @@
 16. ❎Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation
 # SIGIR 24 sequential recommendation
 17. ❎Self-Augmented Graph Neural Networks for Sequential Recommendation
-18. ❎IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT
-19. ❎FineRec: Exploring Fine-grained Sequential Recommendation   
-20. ❎Sequential Recommendation with Latent Relations based on Large Language Model
+18. ❎IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT [[paper]](https://arxiv.org/abs/2404.02059)
+19. ❎FineRec: Exploring Fine-grained Sequential Recommendation [[paper]](https://arxiv.org/abs/2404.12975)  
+20. ❎Sequential Recommendation with Latent Relations based on Large Language Model [[paper]](https://arxiv.org/abs/2403.18348)
 21. ❎Sequential Recommendation with Collaborative Explanation via Mutual Information Maximization
 22. ❎Enhancing Sequential Recommenders with Augmented Knowledge from Aligned Large Language Models
 23. ❎Modeling User Fatigue for Sequential Recommendation
 24. ❎Scaling Sequential Recommendation Models with Transformers
-25. ❎Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention
+25. ❎Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention [[paper]](https://arxiv.org/abs/2404.03637)
 26. ❎CMCLRec: Cross-modal Contrastive Learning for User Cold-start Sequential Recommendation
-27. ❎Explainable Uncertainty Attribution for Sequential Recommendation
+27. ❎Explainable Uncertainty Attribution for Sequential Recommendation  
+### END OF SIGIR 24 
+28. EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention [[paper]](https://arxiv.org/abs/2403.17729)
